@@ -135,5 +135,5 @@ O código e a arquitetura foram construídos com base no repositório original d
 
 ## 👤 Autor
 
-- **Carlos Oliveira**  
+- **Elias Acosta**  
 - Contato: [LinkedIn](https://www.linkedin.com/in/elias-acosta-a0ba8619a) | [GitHub](https://github.com/EliasPira)
