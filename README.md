@@ -124,8 +124,7 @@ macros/
 ├── generate_schema_name.sql      # Geração dinâmica de nomes de schema
 ├── schema.yml                    # Definições e descrições das macros
 ```
-**OBS.: Maiores detalhes na documentação dbt**
-[dbt](https://s3.us-east-1.amazonaws.com/www.climabr2.com/index.html)
+**OBS.: Maiores detalhes na documentação [dbt](https://s3.us-east-1.amazonaws.com/www.climabr2.com/index.html)**
 
 
 ## Créditos e Referências
