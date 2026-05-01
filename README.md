@@ -124,13 +124,16 @@ macros/
 ├── generate_schema_name.sql      # Geração dinâmica de nomes de schema
 ├── schema.yml                    # Definições e descrições das macros
 ```
-OBS.: Maiores detalhes na documentação dbt
+**OBS.: Maiores detalhes na documentação dbt**
+[dbt](https://s3.us-east-1.amazonaws.com/www.climabr2.com/index.html)
+
 
 ## Créditos e Referências
 
 Este projeto foi desenvolvido por **Elias**, seguindo as diretrizes e instruções apresentadas pelo professor da disciplina no **curso de Pós-Graduação em Engenharia de Dados e IA da Faculdade Anhanguera**.
 
 O código e a arquitetura foram construídos com base no repositório original disponibilizado pelo **professor Carlos Oliveira**, servindo como referência conceitual e estrutural. Não foi realizado fork direto do repositório, mas partes do projeto foram adaptadas conforme as orientações acadêmicas.
+
 
 
 ## 👤 Autor

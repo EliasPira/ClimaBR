@@ -54,15 +54,9 @@ O projeto entrega modelos analíticos prontos para consumo em dashboards, relat�
 
 ## Créditos e Referências
 
-Este projeto foi desenvolvido por Elias, seguindo as diretrizes e instruções apresentadas pelo professor da disciplina no curso de Pós-Graduação em Engenharia de Dados e IA da Faculdade Anhanguera.
+Este projeto foi desenvolvido por **Elias Acosta**, seguindo as diretrizes e instruções apresentadas pelo professor da disciplina no **curso de Pós-Graduação em Engenharia de Dados e IA da Faculdade Anhanguera**.
 
-O código e a arquitetura foram construídos com base no repositório original disponibilizado pelo professor, servindo como referência conceitual e estrutural. Não foi realizado fork direto do repositório, mas partes do projeto foram adaptadas conforme as orientações acadêmicas.
-
-## Autoria
-
-Este projeto foi desenvolvido por Elias como parte do curso de Pós-Graduação em Engenharia de Dados e IA da Faculdade Anhanguera.
-
-A implementação foi baseada nas orientações do professor e inspirada no repositório original fornecido durante a disciplina. Embora não tenha sido realizado um fork direto, parte da estrutura e das ideias foram adaptadas a partir do material disponibilizado pelo professor.
+O código e a arquitetura foram construídos com base no repositório original disponibilizado pelo **professor Carlos Oliveira**, servindo como referência conceitual e estrutural. Não foi realizado fork direto do repositório, mas partes do projeto foram adaptadas a partir do material disponibilizado pelo professor.
 
 Engenharia de Dados | AWS | dbt | Athena
 {% enddocs %}
