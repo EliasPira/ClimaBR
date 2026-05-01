@@ -126,7 +126,14 @@ macros/
 ```
 OBS.: Maiores detalhes na documentação dbt
 
+## Créditos e Referências
+
+Este projeto foi desenvolvido por **Elias**, seguindo as diretrizes e instruções apresentadas pelo professor da disciplina no **curso de Pós-Graduação em Engenharia de Dados e IA da Faculdade Anhanguera**.
+
+O código e a arquitetura foram construídos com base no repositório original disponibilizado pelo **professor Carlos Oliveira**, servindo como referência conceitual e estrutural. Não foi realizado fork direto do repositório, mas partes do projeto foram adaptadas conforme as orientações acadêmicas.
+
+
 ## 👤 Autor
 
-- **Carlos Oliveira**  
-- Contato: [LinkedIn](https://www.linkedin.com/in/carlosoliveira2910/) | [GitHub](https://github.com/ckoliveiraa)
+- **Elias Acosta**  
+- Contato: [LinkedIn](https://www.linkedin.com/in/elias-acosta-a0ba8619a) | [GitHub](https://github.com/EliasPira)
